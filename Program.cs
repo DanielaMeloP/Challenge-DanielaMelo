@@ -2,7 +2,7 @@
 
 namespace Challenge_DanielaMelo
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
